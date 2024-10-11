@@ -1,0 +1,8 @@
+[
+  { "pic": "locgym.jpg",  "name": "DHA", "price": 1300},
+  { "pic": "locgym.jpg",  "name": "Clifton", "price": 3900},
+  { "pic": "locgym.jpg",  "name": "Tariq Road", "price": 1700},
+  { "pic": "locgym.jpg",  "name": "DHA", "price": 2500 },
+  { "pic": "locgym.jpg", "name": "Clifton", "price": 1200},
+  { "pic": "locgym.jpg",  "name": "Tariq Road", "price": 1100 }
+]

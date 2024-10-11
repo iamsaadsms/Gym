@@ -1,0 +1,12 @@
+.HomeVid {
+    /* margin-top: 15vh; */
+    margin-bottom: 10vh;
+    overflow-x: hidden;
+}
+
+.h-img {
+    width: 100%;
+    height: 90vh;
+    object-fit: cover;
+    position: relative;
+}
